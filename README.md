@@ -1,6 +1,6 @@
 # IoT-Temperature-Humidity-Based-Fan-Controller-System
 
-## IOT SOLUTION FOR TEMPERATURE and humidity BASED FAN SPEED CONTROLER
+## IoT SOLUTION FOR TEMPERATURE and humidity BASED FAN SPEED CONTROLER
 
 ###### In this Project we developed a temperature and humidity-based fan speed controller system. 
 
